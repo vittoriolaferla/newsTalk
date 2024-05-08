@@ -1,0 +1,43 @@
+name: dima
+description: "DIMA"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.27.1
+  cloud_firestore:
+  firebase_auth: ^4.4.0
+  google_sign_in: ^6.2.1
+  flip_card: ^0.5.0
+  flutter_swiper_null_safety: ^1.0.2
+  google_maps_flutter:
+  flutter_polyline_points: ^1.0.0
+  algolia:
+  shimmer: ^2.0.0
+  provider: ^6.0.1 # Check for the latest version
+  font_awesome_flutter: ^10.7.0
+  geolocator:
+  url_launcher: ^6.0.20
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+dependency_overrides:
+#firebase_core_platform_interface: 4.5.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+
