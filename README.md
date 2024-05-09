@@ -14,3 +14,9 @@ Welcome to NewsTalk, a Flutter-based news application developed specifically for
 
 - **Community:** We are creating a community feature to allow users to gather and discuss news articles, fostering a deeper connection and engagement among the audience.
 - **Recommender System:** Enhance user experience with a sophisticated recommender system that suggests news articles based on users' reading habits and preferences.
+## Screenshots
+![Home Page](Screenshots/Screenshot_HomePage.png)
+![Article Page](Screenshots/Screenshot_ArticlePage.png.png)
+![Discovery Page](Screenshots/Screenshot_DiscoveryPage.png)
+![Discovery Page 2](Screenshots/Screenshot_DisoveryPagePopUp.png)
+
